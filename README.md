@@ -5,6 +5,7 @@
 ## Digital Image Processing Group Project
 ## Dataset url: https://huggingface.co/datasets/Project-AgML/fresh_rotten_fruit_classification
 ## GitURL: https://github.com/sehanMasstech/fresh-vs-rotten-dip-project-id-242006222e
+## ColabURL: https://colab.research.google.com/drive/1nyds65iKm6Xw92TfbirIncrbaR7e_lp-?usp=sharing
 
 ---
 
